@@ -264,7 +264,7 @@ main{
 footer{
 	margin-top: 50px;
 	padding-bottom: 20px;
-	background-image: url("image/b2.jpg");
+	background-image: url(b2.jpg");
 }
 footer h2{
 	text-align: center;
